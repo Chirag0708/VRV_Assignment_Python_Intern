@@ -1,0 +1,13 @@
+IP Address,Request Count
+192.168.1.1,7
+203.0.113.5,6
+10.0.0.2,5
+192.168.1.100,5
+198.51.100.23,4
+
+Most Accessed Endpoint,Access Count
+/home,5
+
+Suspicious Activity,Failed Login Attempts
+192.168.1.100,5
+203.0.113.5,5
